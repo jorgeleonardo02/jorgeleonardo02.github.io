@@ -1,0 +1,14 @@
+body{
+	background: url("../img/img9.jpg");
+	float:right;
+	background-attachment: fixed;
+}
+#logo{
+	background: #1F87C4;	
+}
+#menu ul li:hover{
+	background:#1F87C4;
+}
+.button-more{
+	background: #1F87C4;
+}
